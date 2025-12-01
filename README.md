@@ -1,5 +1,5 @@
 # FiletoVideo
-Encodes a file to a video, reducing size by 23x usually
+Encodes a file to a video.
 
 This code encodes any file to a video, shrinking the size enourmously. The idea is that this is used to store ZIP files on YouTube. 
 
